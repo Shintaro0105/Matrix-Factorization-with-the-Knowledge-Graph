@@ -1,4 +1,4 @@
-# 提出コード
+# Matrix-Factorization-with-the-Knowledge-Graph (卒業研究)
 ## はじめに
 
 DemoではDouban Movieデータセットにおけるユーザをランダムに30％の人数抽出した縮小データセットにて実行している．
