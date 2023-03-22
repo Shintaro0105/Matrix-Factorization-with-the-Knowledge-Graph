@@ -1,8 +1,6 @@
 # Matrix-Factorization-with-the-Knowledge-Graph (卒業研究)
 ## はじめに
 
-DemoではDouban Movieデータセットにおけるユーザをランダムに30％の人数抽出した縮小データセットにて実行している．
-
 データセットの取得リンク：https://github.com/librahu/HIN-Datasets-for-Recommendation-and-Network-Embedding.git
 
 ## 必要環境
